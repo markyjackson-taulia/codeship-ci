@@ -1,6 +1,6 @@
 demo:
   build:
-    image: hi
+    image: jequals5/ci-guide
     dockerfile_path: Dockerfile
   links:
     - redis
@@ -12,7 +12,7 @@ demo:
 
 demo_volumes:
   build:
-    image: jequals5/ci-guide
+    image: myapp
     dockerfile_path: Dockerfile.volumes
   volumes_from:
     - demo
