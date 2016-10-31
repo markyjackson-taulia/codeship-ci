@@ -12,7 +12,7 @@ demo:
 
 demo_volumes:
   build:
-    image: myapp
+    image: jequals5/ci-guide
     dockerfile_path: Dockerfile.volumes
   volumes_from:
     - demo
