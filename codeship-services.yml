@@ -1,6 +1,6 @@
 demo:
   build:
-    image: jequals5/ci-guide
+    image: hi
     dockerfile_path: Dockerfile
   links:
     - redis
