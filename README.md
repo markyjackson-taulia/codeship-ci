@@ -9,3 +9,6 @@ Part 3. Learn how to push your images and deploy your code using Codeship’s Do
 Part 4. What is a volume and what is it good for?
 
 Part 5. Now everything is working but how can I make it faster? Read about parallelism and caching.
+
+
+I will add more
